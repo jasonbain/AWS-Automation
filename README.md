@@ -20,6 +20,7 @@ I will attempt to make sense of the scripts here.
 Usage: ./aws-mgmt.sh { create-instances | attach-eips | aws-all-on | aws-all-off | terminate-instances | status }
 
 Examples:
+
 ./aws-mgmt.sh create-instances - creates a set of instances based the config file aws-instances.txt
 
 ./aws-mgmt.sh attach-eips - will attach a random elastic ip to each running instance
