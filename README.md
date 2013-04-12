@@ -15,7 +15,7 @@ feel free to clone and use https://github.com/jasonbain/AWS-Automation.git
 I will attempt to make sense of the scripts here.
 
 ###aws-mgmt.sh
-This script uses aws-instances.conf as input.
+####This script uses aws-instances.conf as input.
 
 Usage: ./aws-mgmt.sh { create-instances | attach-eips | aws-all-on | aws-all-off | terminate-instances | status }
 
